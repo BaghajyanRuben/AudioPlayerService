@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioPlayerService</string>
+    <string name="service_description">This Service is to control audio file playback</string>
+    <string name="service_label">AudioService</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+</resources>
